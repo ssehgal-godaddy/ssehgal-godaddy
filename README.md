@@ -2,7 +2,7 @@
 
 🚀 **Network Engineer | Automation Enthusiast**
 
-I'm a seasoned Network Engineer with 10 years of hands-on experience in enterprise and service provider environments. My expertise spans routing, switching, and security — with deep familiarity across platforms like Cisco IOS-XR, Nexus 7K/9K, Arista EOS, Juniper SRX, and MX series (among many others!).
+I'm a seasoned Network Engineer with 10 years of hands-on experience in enterprise and service provider environments. My expertise spans routing and switching — with deep familiarity across platforms like Cisco IOS-XR, Nexus 7K/9K, Arista EOS, Juniper SRX, and MX series (among many others!).
 
 ## 🛠️ Current Focus
 
